@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书概念词解图文"
+  short_description: "规划、撰写并制作统一视觉风格的小红书概念词解知识图解"
+  default_prompt: "使用 $create-xiaohongshu-concept-cards 为一个概念词规划并制作小红书知识图解。"
